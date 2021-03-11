@@ -1,0 +1,7 @@
+C:\Users\legenda\Desktop\LegujabbDemorepo0309\SeleniumosFolyamatOran\SeleniumosEstis\SeleniumosEstis\bin\Debug\SeleniumosEstis.exe.config
+C:\Users\legenda\Desktop\LegujabbDemorepo0309\SeleniumosFolyamatOran\SeleniumosEstis\SeleniumosEstis\bin\Debug\SeleniumosEstis.exe
+C:\Users\legenda\Desktop\LegujabbDemorepo0309\SeleniumosFolyamatOran\SeleniumosEstis\SeleniumosEstis\bin\Debug\SeleniumosEstis.pdb
+C:\Users\legenda\Desktop\LegujabbDemorepo0309\SeleniumosFolyamatOran\SeleniumosEstis\SeleniumosEstis\obj\Debug\SeleniumosEstis.csprojAssemblyReference.cache
+C:\Users\legenda\Desktop\LegujabbDemorepo0309\SeleniumosFolyamatOran\SeleniumosEstis\SeleniumosEstis\obj\Debug\SeleniumosEstis.csproj.CoreCompileInputs.cache
+C:\Users\legenda\Desktop\LegujabbDemorepo0309\SeleniumosFolyamatOran\SeleniumosEstis\SeleniumosEstis\obj\Debug\SeleniumosEstis.exe
+C:\Users\legenda\Desktop\LegujabbDemorepo0309\SeleniumosFolyamatOran\SeleniumosEstis\SeleniumosEstis\obj\Debug\SeleniumosEstis.pdb

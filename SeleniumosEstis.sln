@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumosEstis", "SeleniumosEstis\SeleniumosEstis.csproj", "{9F3ABF61-9FFF-4979-8237-E776E941DD43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumosEstisTeszt", "SeleniumosEstisTeszt\SeleniumosEstisTeszt.csproj", "{9BB7B89A-7513-48DB-A332-E0927C17A765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F3ABF61-9FFF-4979-8237-E776E941DD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3ABF61-9FFF-4979-8237-E776E941DD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3ABF61-9FFF-4979-8237-E776E941DD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3ABF61-9FFF-4979-8237-E776E941DD43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB7B89A-7513-48DB-A332-E0927C17A765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB7B89A-7513-48DB-A332-E0927C17A765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB7B89A-7513-48DB-A332-E0927C17A765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB7B89A-7513-48DB-A332-E0927C17A765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2D10609-09CE-40F7-B5E1-68D46671A0EE}
+	EndGlobalSection
+EndGlobal
