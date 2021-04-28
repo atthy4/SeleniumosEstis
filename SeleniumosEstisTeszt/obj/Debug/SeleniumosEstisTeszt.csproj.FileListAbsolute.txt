@@ -10,3 +10,15 @@ C:\Users\legenda\Desktop\LegujabbDemorepo0309\SeleniumosFolyamatOran\SeleniumosE
 C:\Users\legenda\Desktop\LegujabbDemorepo0309\SeleniumosFolyamatOran\SeleniumosEstis\SeleniumosEstisTeszt\obj\Debug\SeleniumosEstisTeszt.csproj.CopyComplete
 C:\Users\legenda\Desktop\LegujabbDemorepo0309\SeleniumosFolyamatOran\SeleniumosEstis\SeleniumosEstisTeszt\obj\Debug\SeleniumosEstisTeszt.dll
 C:\Users\legenda\Desktop\LegujabbDemorepo0309\SeleniumosFolyamatOran\SeleniumosEstis\SeleniumosEstisTeszt\obj\Debug\SeleniumosEstisTeszt.pdb
+C:\Users\legenda\Desktop\SeleniumosEstis\SeleniumosEstis\SeleniumosEstisTeszt\bin\Debug\SeleniumosEstisTeszt.dll
+C:\Users\legenda\Desktop\SeleniumosEstis\SeleniumosEstis\SeleniumosEstisTeszt\bin\Debug\SeleniumosEstisTeszt.pdb
+C:\Users\legenda\Desktop\SeleniumosEstis\SeleniumosEstis\SeleniumosEstisTeszt\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\legenda\Desktop\SeleniumosEstis\SeleniumosEstis\SeleniumosEstisTeszt\bin\Debug\WebDriver.dll
+C:\Users\legenda\Desktop\SeleniumosEstis\SeleniumosEstis\SeleniumosEstisTeszt\bin\Debug\WebDriver.Support.dll
+C:\Users\legenda\Desktop\SeleniumosEstis\SeleniumosEstis\SeleniumosEstisTeszt\bin\Debug\WebDriver.xml
+C:\Users\legenda\Desktop\SeleniumosEstis\SeleniumosEstis\SeleniumosEstisTeszt\bin\Debug\WebDriver.Support.xml
+C:\Users\legenda\Desktop\SeleniumosEstis\SeleniumosEstis\SeleniumosEstisTeszt\obj\Debug\SeleniumosEstisTeszt.csprojAssemblyReference.cache
+C:\Users\legenda\Desktop\SeleniumosEstis\SeleniumosEstis\SeleniumosEstisTeszt\obj\Debug\SeleniumosEstisTeszt.csproj.CoreCompileInputs.cache
+C:\Users\legenda\Desktop\SeleniumosEstis\SeleniumosEstis\SeleniumosEstisTeszt\obj\Debug\SeleniumosEstisTeszt.csproj.CopyComplete
+C:\Users\legenda\Desktop\SeleniumosEstis\SeleniumosEstis\SeleniumosEstisTeszt\obj\Debug\SeleniumosEstisTeszt.dll
+C:\Users\legenda\Desktop\SeleniumosEstis\SeleniumosEstis\SeleniumosEstisTeszt\obj\Debug\SeleniumosEstisTeszt.pdb
