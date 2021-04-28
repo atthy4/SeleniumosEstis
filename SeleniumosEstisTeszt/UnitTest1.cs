@@ -15,7 +15,7 @@ namespace SeleniumosEstisTeszt
             dw.Manage().Window.Maximize();
             dw.Navigate().GoToUrl("https://www.portfolio.hu/");
             string s = dw.Url;
-            Assert.AreEqual("https://www.portfolio.hu/", s);
+            Assert.AreEqual("asd", s);
         }
     }
 }
